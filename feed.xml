@@ -1,0 +1,60 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+<channel>
+<title>Esto, eso y todo lo contrario</title>
+<link>https://PODCAST URL.com/</link>
+<language>es-es</language>
+<atom:link href="https://github.com/dabergar/estoesoytodolocontrario/blob/master/feed.xml" rel="self" type="application/rss+xml"/>
+<copyright>Dario Bertomeu</copyright>
+<itunes:subtitle>De todo un poco y un poco de todo</itunes:subtitle>
+<itunes:author>Dario Bertomeu</itunes:author>
+<itunes:summary>
+Un increible podcast, donde se hablará de miles de temas...o quizás, de solo unos pocos...
+</itunes:summary>
+<itunes:keywords>
+Apple, electronica, informatica, programacion
+</itunes:keywords>
+<description>
+Un increible podcast, donde se hablará de miles de temas...o quizás, de solo unos pocos...
+</description>
+<itunes:owner>
+<itunes:name>Dario Bertomeu</itunes:name>
+<itunes:email>estoesoytodolocontrario@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:image href="https://github.com/dabergar/estoesoytodolocontrario/blob/master/image.jpg"/>
+<itunes:category text="Apple"></itunes:category>
+<itunes:category text="Electronica"></itunes:category>
+<itunes:category text="Informatica"></itunes:category>
+<itunes:category text="Programacion"></itunes:category>
+<itunes:explicit>no</itunes:explicit>
+
+<item>
+<title>Decepciones, mercados y manzanas</title>
+<itunes:title>Decepciones, mercados y manzanas</itunes:title>
+<itunes:author>Dario Bertomeu</itunes:author>
+<itunes:subtitle>
+Decepciones, mercados y manzanas
+</itunes:subtitle>
+<itunes:summary>
+<![CDATA[
+EPISODE DESCRIPTION
+]]>
+</itunes:summary>
+<description>
+<![CDATA[
+EPISODE DESCRIPTION
+]]>
+</description>
+<itunes:image href="https://github.com/dabergar/estoesoytodolocontrario/blob/master/image.jpg"/>
+<enclosure url="https://github.com/dabergar/estoesoytodolocontrario/blob/master/podcasts/" length="LENGTH" type="audio/mpeg"/>
+<itunes:duration>DURATION</itunes:duration>
+<itunes:season>SEASON #</itunes:season>
+<itunes:episode>EPISODE #</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+<guid isPermaLink="false">
+https://github.com/dabergar/estoesoytodolocontrario/blob/master/podcasts/
+</guid>
+<pubDate>EPISODE PUBLISH DATE</pubDate>
+<itunes:explicit>yes</itunes:explicit>
+</item>
+</channel>
+</rss>
