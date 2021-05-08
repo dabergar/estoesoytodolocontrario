@@ -74,7 +74,7 @@
 			<itunes:image href="https://github.com/dabergar/estoesoytodolocontrario/raw/master/image.jpg"></itunes:image>
 			<itunes:duration>947</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:episode>1</itunes:episode>
+			<itunes:episode>2</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>yes</itunes:explicit>
 			<pubDate>Tue, 16 Feb 2021 19:16:18 GMT</pubDate>
@@ -96,10 +96,32 @@
 			<itunes:image href="https://github.com/dabergar/estoesoytodolocontrario/raw/master/image.jpg"></itunes:image>
 			<itunes:duration>5809</itunes:duration>
 			<itunes:episodeType>full</itunes:episodeType>
-			<itunes:episode>1</itunes:episode>
+			<itunes:episode>3</itunes:episode>
 			<itunes:season>1</itunes:season>
 			<itunes:explicit>yes</itunes:explicit>
 			<pubDate>Thu, 14 Apr 2021 22:06:08 GMT</pubDate>
+		</item>
+		<item>
+			<title>
+				<![CDATA[Impresoras 3D y olé!!!]]>
+			</title>
+			<itunes:title>
+				<![CDATA[Impresoras 3D y olé!!!]]>
+			</itunes:title>
+			<itunes:summary>Un increible podcast, donde se hablará de miles de temas...o quizás, de solo unos pocos...</itunes:summary>
+			<description>
+				<![CDATA[<p>Un increible podcast, donde se hablará de miles de temas...o quizás, de solo unos pocos...</p>]]>
+			</description>
+			<link>https://github.com/dabergar/estoesoytodolocontrario/tree/master/mp3s</link>
+			<enclosure url="https://github.com/dabergar/estoesoytodolocontrario/raw/master/mp3s/Esto%20eso%20y%20todo%20lo%20contrario%20%234.mp3" length="100316788" type="audio/mp3"></enclosure>
+			<guid isPermaLink="false">0fc65fd6-4ed8-4f4e-b145-04358948216e</guid>
+			<itunes:image href="https://github.com/dabergar/estoesoytodolocontrario/raw/master/image.jpg"></itunes:image>
+			<itunes:duration>6010</itunes:duration>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:episode>4</itunes:episode>
+			<itunes:season>1</itunes:season>
+			<itunes:explicit>yes</itunes:explicit>
+			<pubDate>Sat, 8 May 2021 20:01:08 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
